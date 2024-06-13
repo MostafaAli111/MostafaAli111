@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mostafa4414730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa4414730" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafa ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa ali" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mostafa ali](https://www.linkedin.com/in/mostafa-ali-60546428a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa ali" height="30" width="40" /></a>
 <a href="https://kaggle.com/mostafa ali26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafa ali26" height="30" width="40" /></a>
 <a href="https://fb.com/mostafa ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa ali" height="30" width="40" /></a>
 <a href="https://instagram.com/mostafaali5956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafaali5956" height="30" width="40" /></a>
