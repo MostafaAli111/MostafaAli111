@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ali</h1>
-<h3 align="center">Good ML Engineer and Data Analyst</h3>
+<h3 align="center"> ML Engineer and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaali111&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaali111" /> </p>
 
